@@ -1,0 +1,15 @@
+interesting-group/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   └── Header.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   └── Products.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   └── index.js
+├── package.json
+└── README.md
